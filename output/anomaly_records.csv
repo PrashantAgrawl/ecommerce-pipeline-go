@@ -1,0 +1,6 @@
+order_id,product_name,category,quantity,unit_price,discount_percent,region,sale_date,customer_email,revenue,month
+A1026,WashingMachine,Electrnics,4.0,35895.84,0.16,North,2023-03-22,,120610.02,2023-03
+A1008,shoess,Electrnics,5.0,46513.14,0.6,South,2023-05-22,,93026.28,2023-05
+A1022,Smart Phone,fashion wear,3.0,48804.51,0.45,CENTRAL,,,80527.44,NaT
+A1045,washing machine,HomeAppliance,5.0,41976.76,0.63,North,,,77657.01,NaT
+A1035,Smartphone,fashion wear,2.0,45515.24,0.28,south,2023-05-08,,65541.95,2023-05

@@ -1,0 +1,101 @@
+order_id,product_name,category,quantity,unit_price,discount_percent,region,sale_date,customer_email,revenue
+A1004,Shoes,electronics,3,33360.41,0.8,North,06-04-2023,,20016.25
+A1026,WashingMachine,Electrnics,4,35895.84,0.16,North,2023.03.22,,120610.02
+A1029,Smartphone,fashion,abc,39904.82,0.94,South,2023/05/18,,0.0
+A1034,Laptop,electronics,1,46033.65,1.0,WEST,11-01-2023,b@example.com,0.0
+A1032,laptop,fashion,0,41918.88,0.7,South,2023.02.06,a@example.com,0.0
+A1019,laptop,HomeAppliance,0,36935.69,0.84,WEST,2023-04-28,,0.0
+A1006,Laptop,electronics,-1,44336.41,0.07,CENTRAL,28-Feb-2023,b@example.com,0.0
+A1049,washing machine,Electrnics,abc,9354.74,0.77,WEST,,,0.0
+A1035,Smartphone,fashion wear,2,45515.24,0.28,south,2023-05-08,,65541.95
+A1043,washing machine,fashion wear,-1,10055.82,0.7,South,2023-05-02,,0.0
+A1003,WashingMachine,home appliance,abc,37527.52,1.09,Central,2023/02/05,a@example.com,0.0
+A1049,Shoes,fashion,-1,19294.69,0.16,west,23-03-2023,a@example.com,0.0
+A1033,laptop,fashion wear,-1,27807.53,0.43,nort,06/03/2023,,0.0
+A1022,Smartphone,fashion,-1,20244.2,0.25,North,2023.02.07,,0.0
+A1042,Shoes,Electrnics,0,33888.34,1.22,CENTRAL,01-May-2023,a@example.com,0.0
+A1005,Smartphone,fashion,-1,38934.3,0.13,nort,2023-05-13,b@example.com,0.0
+A1016,Smartphone,fashion,-1,11665.8,0.5,North,2023/05/25,a@example.com,0.0
+A1041,Laptop,home appliance,abc,16271.11,0.57,Central,05-Jan-2023,,0.0
+A1010,Smart Phone,fashion,-1,4569.2,0.83,South,21-02-2023,,0.0
+A1045,washing machine,HomeAppliance,5,41976.76,0.63,North,,,77657.01
+A1043,Smart Phone,Electrnics,4,3100.77,1.3,south,2023-02-05,,0.0
+A1029,WashingMachine,electronics,0,38983.66,0.54,Central,2023-02-20,,0.0
+A1001,Shoes,Electrnics,-1,24041.7,0.39,North,2023/05/10,a@example.com,0.0
+A1016,laptop,fashion,3,5890.13,1.15,CENTRAL,22-01-2023,b@example.com,0.0
+A1022,Smartphone,Electrnics,0,45375.13,1.49,west,,b@example.com,0.0
+A1003,WashingMachine,home appliance,-1,38896.92,1.35,west,15/02/2023,,0.0
+A1006,shoess,fashion,abc,17308.34,0.58,WEST,2023/02/18,b@example.com,0.0
+A1015,shoess,Electrnics,-1,13801.03,0.79,nort,17-06-2023,,0.0
+A1035,Laptop,home appliance,abc,34411.61,0.36,South,14/04/2023,,0.0
+A1020,WashingMachine,home appliance,0,702.68,1.2,Central,2023.03.01,b@example.com,0.0
+A1044,washing machine,electronics,5,18027.26,0.96,nort,17/01/2023,,3605.45
+A1046,shoess,fashion,abc,30041.76,1.47,Central,01-Mar-2023,,0.0
+A1041,Laptop,fashion,0,43831.1,0.71,North,2023.05.19,,0.0
+A1050,washing machine,fashion wear,abc,32339.87,0.8,CENTRAL,2023/03/08,,0.0
+A1003,Laptop,fashion,-1,25272.97,0.37,nort,29-Apr-2023,,0.0
+A1002,shoess,electronics,-1,4850.74,0.36,North,2023-06-10,a@example.com,0.0
+A1043,Shoes,Electrnics,-1,38209.74,0.16,South,08-02-2023,a@example.com,0.0
+A1045,Smart Phone,electronics,0,46614.39,1.33,North,10-Jan-2023,,0.0
+A1008,WashingMachine,electronics,-1,25392.25,1.43,WEST,,,0.0
+A1021,Shoes,fashion wear,0,21251.75,0.03,CENTRAL,2023-02-13,,0.0
+A1027,shoess,home appliance,0,32349.38,1.12,WEST,2023/02/08,a@example.com,0.0
+A1003,washing machine,home appliance,1,8057.71,0.39,south,2023-04-09,,4915.2
+A1037,laptop,fashion,abc,616.41,0.8,North,24-Mar-2023,,0.0
+A1039,WashingMachine,home appliance,-1,27737.19,0.44,west,,b@example.com,0.0
+A1029,shoess,Electrnics,abc,26013.78,1.29,North,17-Apr-2023,b@example.com,0.0
+A1032,Laptop,fashion,-1,24316.64,1.27,south,2023.02.13,,0.0
+A1014,laptop,fashion,-1,37277.5,0.11,west,2023/01/07,,0.0
+A1003,Smartphone,HomeAppliance,-1,33904.73,0.77,CENTRAL,02/04/2023,b@example.com,0.0
+A1032,laptop,home appliance,3,28315.05,0.57,CENTRAL,2023-05-23,,36526.41
+A1008,shoess,Electrnics,5,46513.14,0.6,South,22/05/2023,,93026.28
+A1050,washing machine,HomeAppliance,2,12078.96,0.04,south,18-Jun-2023,b@example.com,23191.6
+A1006,Laptop,home appliance,abc,10609.83,1.48,south,,,0.0
+A1039,Smartphone,home appliance,-1,14537.38,0.01,CENTRAL,2023/02/02,,0.0
+A1017,Laptop,fashion wear,abc,5912.45,1.33,CENTRAL,2023/03/17,,0.0
+A1033,Smartphone,Electrnics,0,7947.88,1.25,South,13-02-2023,a@example.com,0.0
+A1022,shoess,fashion,abc,40521.19,0.62,south,2023.04.13,,0.0
+A1008,laptop,home appliance,0,24132.37,0.92,south,2023.01.10,,0.0
+A1022,Smart Phone,fashion wear,3,48804.51,0.45,CENTRAL,,,80527.44
+A1009,laptop,home appliance,2,34442.76,1.2,CENTRAL,05/02/2023,,0.0
+A1038,Shoes,Electrnics,5,10881.59,1.29,west,,,0.0
+A1015,laptop,electronics,-1,35267.9,1.03,Central,2023.01.23,,0.0
+A1015,shoess,electronics,abc,11745.59,1.19,west,17-03-2023,,0.0
+A1041,WashingMachine,home appliance,abc,31144.79,1.06,south,11-04-2023,b@example.com,0.0
+A1042,shoess,fashion wear,abc,44339.79,1.41,nort,2023.06.24,,0.0
+A1018,shoess,HomeAppliance,abc,12164.07,1.37,North,2023/02/03,a@example.com,0.0
+A1018,shoess,fashion wear,1,41119.15,0.32,CENTRAL,2023.02.11,,27961.02
+A1048,WashingMachine,HomeAppliance,1,3565.39,0.59,North,25-Jan-2023,,1461.81
+A1039,WashingMachine,fashion wear,-1,16780.89,0.68,south,2023/04/20,,0.0
+A1011,WashingMachine,home appliance,4,35188.03,0.98,North,05/05/2023,b@example.com,2815.04
+A1009,shoess,Electrnics,0,35929.89,0.14,nort,,,0.0
+A1012,Smartphone,fashion,abc,8625.83,0.39,North,10-Jan-2023,,0.0
+A1031,Laptop,Electrnics,3,32862.58,1.43,South,29-Apr-2023,,0.0
+A1007,Smartphone,Electrnics,abc,29574.14,0.15,west,2023.02.02,b@example.com,0.0
+A1046,laptop,HomeAppliance,abc,49378.16,0.49,nort,27-04-2023,,0.0
+A1023,Smart Phone,home appliance,-1,38180.63,0.59,south,,a@example.com,0.0
+A1029,Smart Phone,electronics,4,36235.66,1.0,WEST,2023/02/13,,0.0
+A1002,Smartphone,HomeAppliance,-1,12357.06,0.43,North,23-06-2023,,0.0
+A1010,Laptop,fashion,-1,33992.92,0.85,nort,2023/06/03,,0.0
+A1009,Smart Phone,electronics,abc,10482.88,1.12,west,,,0.0
+A1013,Shoes,electronics,4,25907.29,0.86,WEST,,b@example.com,14508.08
+A1026,Shoes,home appliance,0,40426.92,1.22,Central,12-02-2023,,0.0
+A1020,Smartphone,fashion wear,abc,22878.16,1.35,South,01/03/2023,,0.0
+A1028,laptop,Electrnics,0,35390.07,0.99,CENTRAL,2023-05-15,,0.0
+A1017,washing machine,home appliance,abc,28585.87,0.7,west,29/04/2023,,0.0
+A1010,laptop,fashion wear,-1,3535.22,0.79,WEST,2023-01-09,a@example.com,0.0
+A1035,Smartphone,Electrnics,abc,19064.98,1.09,CENTRAL,22-06-2023,,0.0
+A1011,shoess,Electrnics,4,20187.97,1.05,South,2023-01-11,a@example.com,0.0
+A1035,Smartphone,HomeAppliance,0,49407.15,1.38,south,05-03-2023,,0.0
+A1007,Smartphone,home appliance,0,4885.83,0.13,nort,2023-01-05,a@example.com,0.0
+A1031,Laptop,fashion wear,0,38037.95,0.42,South,11-06-2023,,0.0
+A1030,Smartphone,HomeAppliance,0,18107.57,0.17,Central,2023-01-04,a@example.com,0.0
+A1030,Smartphone,Electrnics,0,17300.07,0.24,west,05/06/2023,,0.0
+A1029,shoess,home appliance,1,2836.8,1.01,south,,b@example.com,0.0
+A1041,washing machine,electronics,-1,9213.57,0.7,west,2023/06/19,,0.0
+A1050,Shoes,fashion wear,abc,24547.82,1.19,nort,09-01-2023,b@example.com,0.0
+A1027,Shoes,Electrnics,abc,20450.01,0.89,North,2023-04-01,,0.0
+A1009,WashingMachine,electronics,0,20119.88,0.37,nort,24-Jun-2023,,0.0
+A1026,shoess,home appliance,abc,48404.6,1.14,CENTRAL,31-Jan-2023,,0.0
+A1004,Laptop,fashion,abc,6967.59,1.41,CENTRAL,2023-01-20,b@example.com,0.0
+A1020,WashingMachine,fashion wear,abc,4596.44,0.32,west,2023-03-05,a@example.com,0.0
