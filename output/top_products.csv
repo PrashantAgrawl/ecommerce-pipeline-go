@@ -1,9 +1,8 @@
 product_name,revenue,units_sold
-WashingMachine,124886.87,9
+washingmachine,124886.87,9
 shoess,120987.30,6
 washing machine,109369.26,13
-Smart Phone,80527.44,7
-Smartphone,65541.95,2
-laptop,36526.41,3
-Shoes,34524.33,7
-Laptop,0.00,1
+smart phone,80527.44,7
+smartphone,65541.95,2
+laptop,36526.41,4
+shoes,34524.33,7

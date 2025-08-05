@@ -1,7 +1,5 @@
-region,revenue,quantity,discount_percent
-CENTRAL,145014.87,7.0,0.4466666666666666
-North,222560.13,17.0,0.632
-South,93026.28,5.0,0.6
-WEST,14508.08,9.0,0.9533333333333333
-nort,3605.45,5.0,0.96
-south,93648.75,5.0,0.2366666666666667
+region,revenue,quantity,avg_discount
+Central,145014.87,7,0.45
+North,226165.58,22,0.69
+West,14508.08,9,0.95
+South,186675.03,10,0.33
